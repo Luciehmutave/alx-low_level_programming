@@ -1,5 +1,5 @@
 #include <stdlib.h>
-#include "dog"
+#include "dog.h"
 
 /**
  * free_dog - frees memory allocated for
